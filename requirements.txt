@@ -1,0 +1,6 @@
+altair
+pandas
+streamlit==1.32.0
+torch
+torchvision
+pillow
